@@ -1,8 +1,8 @@
--Hi, I’m @Enesdrk
+- Hi, I’m @Enesdrk
 
--I’m interested in Flutter
+- I’m interested in Flutter
 
--I’m currently learning Flutter
+- I’m currently learning Flutter
 
 - I graduated from Çankaya University
 
