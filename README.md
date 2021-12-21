@@ -1,9 +1,9 @@
 - Hi, I’m @Enesdrk
 
-- I’m interested in Flutter
+- Jr. iOS Developer 
 
-- I’m currently learning Flutter
+- Jr. Flutter Developer 
 
-- I graduated from Çankaya University
 
-- My ideal is to work as a Swift/Flutter developer
+
+
