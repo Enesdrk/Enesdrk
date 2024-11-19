@@ -1,15 +1,19 @@
-- Hi, I’m Enes 
+# Hi there 👋, I'm Enes!
 
-- I graduated from Çankaya University Computer Engineering. I am passionate about mobile application development.
+🎓 **Graduate:** Çankaya University - Computer Engineering  
+💡 **Passionate about:** Mobile Application Development  
+📱 **Roles:**  
+- iOS Developer  
+- Flutter Developer  
+- Software Developer  
 
-- iOS Developer 
+🌐 **Find me online:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesdirik)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@enesdirik)  
 
-- Jr. Flutter Developer
+🚀 **Current Interests:**  
+- Building seamless user experiences  
+- Exploring Flutter for cross-platform development  
+- Writing about tech and development  
 
-
-
-
-LinkedIn : linkedin.com/in/enesdirik
-
-Medium : medium.com/@enesdirik
-
+Feel free to connect! ✨
