@@ -5,7 +5,8 @@
 📱 **Roles:**  
 - iOS Developer  
 - Flutter Developer  
-- Software Developer  
+- Software Developer
+- Full Stack Developer
 
 🌐 **Find me online:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesdirik)  
